@@ -6,9 +6,7 @@
     "description": "mpaas小程序",
     "main": ".src/index.js",
     "license": "ISC",
-    "bin": {
-        "sdmpaas": "./src/index.js"
-    },
+
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
